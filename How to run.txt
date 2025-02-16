@@ -1,0 +1,13 @@
+- Extract the folder (LDD)
+- Open in VS code or any IDE
+- open your terminal at the file location and run the following commands
+
+
+To install dependencies :
+pip install -r requirements.txt --user
+
+To run the file :
+python -m streamlit run app.py
+
+- Live Demo (No Need to run this): https://huggingface.co/spaces/Ganesh89/LiverDiseasePrediction
+
