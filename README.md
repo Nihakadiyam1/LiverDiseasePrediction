@@ -1,21 +1,20 @@
+# 🏥 Liver Disease Prediction App
 
+This is a **Streamlit-based web application** that predicts **liver disease** based on patient details. It uses **Machine Learning (Gradient Boosting Classifier)** to analyze health parameters and predict whether a patient has liver disease or not.
 
-# 🏥 Liver Disease Prediction App  
+---
 
-This is a **Streamlit-based web application** that predicts **liver disease** based on patient details. It uses **Machine Learning (Gradient Boosting Classifier)** to analyze health parameters and predict whether a patient has liver disease or not.  
+## 🚀 Features
 
------
-
-## 🚀 Features  
 ✅ Predicts **Liver Disease** using a trained ML model  
 ✅ Uses **Gradient Boosting Classifier** for prediction  
 ✅ **User-friendly Interface** built with **Streamlit**  
 ✅ **Real-time prediction** based on patient input  
-✅ **Deployed on Hugging Face**  
+✅ **Deployed on Hugging Face**
 
 ---
 
-## 📁 Project Structure  
+## 📁 Project Structure
 
 LDD/ │── app.py # Main Streamlit app
 │── countOfTar.py # Checks class distribution
@@ -25,12 +24,12 @@ LDD/ │── app.py # Main Streamlit app
 │── How to run.txt # Instructions
 │── README.md # Project documentation
 
-
 ---
 
-## 🛠 Installation & Setup  
+## 🛠 Installation & Setup
 
-### 1️⃣ **Clone the Repository**  
+### 1️⃣ **Clone the Repository**
+
 ```sh
 git clone https://github.com/yourusername/LiverDiseasePrediction.git
 cd LiverDiseasePrediction
@@ -63,6 +62,8 @@ output:
 
 
 By Harika Kadiyam
+from SVES
 
 
 
+```
