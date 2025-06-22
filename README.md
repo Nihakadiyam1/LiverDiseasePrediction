@@ -4,7 +4,7 @@
 
 This is a **Streamlit-based web application** that predicts **liver disease** based on patient details. It uses **Machine Learning (Gradient Boosting Classifier)** to analyze health parameters and predict whether a patient has liver disease or not.  
 
----
+-----
 
 ## 🚀 Features  
 ✅ Predicts **Liver Disease** using a trained ML model  
@@ -62,7 +62,7 @@ output:
 
 
 
-
+By Harika Kadiyam
 
 
 
